@@ -8,8 +8,8 @@ Hey, my name is Jan Schröder and I'm a Front-End Web Developer and Web Designer
 * Web Design
 * Game Development and Design
 * Writing
-* Music production
 * New technologies 
+* Music production
 
 ## Skills
 ![HTML](https://github.com/JNSOFF/JNSOFF/blob/master/images/htmlBadge.png)
